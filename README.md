@@ -1,0 +1,4 @@
+AIMiniProject
+=============
+
+AI Project one
