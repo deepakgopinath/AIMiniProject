@@ -1,4 +1,4 @@
- 
+% Adding comments 
 function allSpectral(audio_name,figure_name,afWindow,iBlockLength,iHopLength);
 h=figure;
 
